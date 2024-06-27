@@ -1,10 +1,10 @@
-# Big Data Real-Time Analytics with Python and Spark
+# Data Cleansing and Preprocessing with Numpy
 
-Welcome to the README for my data science project focusing on Big Data real-time analytics using Python and Spark. 📊 This project demonstrates the practical application of these technologies in managing and analyzing large-scale datasets, emphasizing the critical role of data preparation in enabling successful analytics. 🚀
+Welcome to the README for my data science project focusing on Numpy. 📊 This project demonstrates the practical application of these technologies in managing and analysing large-scale datasets, emphasising the critical role of data preparation in enabling successful analytics. 🚀
 
 ## Project Introduction
 
-The goal of this project is to showcase how Python and Spark can be utilized for real-time analytics, particularly in handling and analyzing large volumes of data efficiently. 🌐
+The goal of this project is to showcase how Numpy can be utilised for real-time analytics, particularly in handling and analysing large volumes of data efficiently. 🌐
 
 ## Dataset Description
 
@@ -19,13 +19,13 @@ The goal of this project is to showcase how Python and Spark can be utilized for
 
 1. **Data Cleaning:** Prepare the datasets by addressing missing values and ensuring data consistency.
    
-2. **Real-Time Analytics:** Utilize Python and Spark for real-time data processing and analysis, demonstrating the scalability and efficiency of these technologies. 📈
+2. **Real-Time Analytics:** Utilize Numpy for real-time data processing and analysis, demonstrating the scalability and efficiency of this Python package. 📈
 
 3. **Insight Generation:** Extract meaningful insights from the data to support informed decision-making processes.
 
 ## Implementation Details
 
-This project leverages the capabilities of Python and Spark to enable real-time analytics on large datasets. It is part of the curriculum at the Data Science Academy, guiding participants through hands-on experience with Big Data technologies. 🎓
+This project leverages the capabilities of Python and Numpy to enable real-time analytics on large datasets. It is part of the curriculum at the Data Science Academy, guiding participants through hands-on experience with Big Data technologies. 🎓
 
 ## References
 
@@ -34,4 +34,4 @@ This project leverages the capabilities of Python and Spark to enable real-time 
 
 ---
 
-Feel free to expand this README with additional sections or details relevant to your project. Happy analyzing! 📝
+Feel free to expand this README with additional sections or details relevant to your project. Happy analysing! 📝
