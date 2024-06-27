@@ -1,10 +1,10 @@
 # Data Cleansing and Preprocessing with Numpy
 
-Welcome to the README for my data science project focusing on Numpy. 📊 This project demonstrates the practical application of these technologies in managing and analysing large-scale datasets, emphasising the critical role of data preparation in enabling successful analytics. 🚀
+Welcome to the README for my data science project focusing on NumPy. 📊 This project demonstrates the practical application of Numpy in managing and analyzing large-scale datasets, emphasizing the critical role of data preparation in enabling successful analytics. 🚀
 
 ## Project Introduction
 
-The goal of this project is to showcase how Numpy can be utilised for real-time analytics, particularly in handling and analysing large volumes of data efficiently. 🌐
+The goal of this project is to showcase how NumPy can be utilized for real-time analytics, particularly in handling and analyzing large volumes of data efficiently. 🌐
 
 ## Dataset Description
 
@@ -16,16 +16,13 @@ The goal of this project is to showcase how Numpy can be utilised for real-time 
 - **Description:** Historical exchange rates data between the US Dollar and the Euro sourced from Yahoo Finance.
 
 ## Objectives
-
-1. **Data Cleaning:** Prepare the datasets by addressing missing values and ensuring data consistency.
-   
-2. **Real-Time Analytics:** Utilize Numpy for real-time data processing and analysis, demonstrating the scalability and efficiency of this Python package. 📈
-
-3. **Insight Generation:** Extract meaningful insights from the data to support informed decision-making processes.
+- **Data Cleaning:** Prepare the datasets by addressing missing values and ensuring data consistency.
+- **Real-Time Analytics:** Utilize NumPy for real-time data processing and analysis, demonstrating the scalability and efficiency of this Python package. 📈
+- **Insight Generation:** Extract meaningful insights from the data to support informed decision-making processes.
 
 ## Implementation Details
 
-This project leverages the capabilities of Python and Numpy to enable real-time analytics on large datasets. It is part of the curriculum at the Data Science Academy, guiding participants through hands-on experience with Big Data technologies. 🎓
+This project leverages the capabilities of Python and NumPy to enable real-time analytics on large datasets. It is part of the curriculum at the Data Science Academy, guiding participants through hands-on experience with Big Data technologies. 🎓
 
 ## References
 
@@ -34,4 +31,5 @@ This project leverages the capabilities of Python and Numpy to enable real-time 
 
 ---
 
-Feel free to expand this README with additional sections or details relevant to your project. Happy analysing! 📝
+Feel free to expand this README with additional sections or details relevant to your project. Happy analyzing! 📝
+
